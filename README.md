@@ -1,4 +1,3 @@
-# Platinum.exe
 ████─█───████─███─███─█──█─█─█─█───█───███─██─██─███
 █──█─█───█──█──█───█──██─█─█─█─██─██───█────███──█──
 ████─█───████──█───█──█─██─█─█─█─█─█───███───█───███
@@ -20,3 +19,58 @@ Credits to ArTicZera for RGBQUAD and Credits to wipet for the HSL function.
 
 So enjoy testing this program！
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               it's skidded&dull(it's for real because this is my second malware)
