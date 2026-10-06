@@ -11,66 +11,10 @@
 ║╚═╝║─╔╝║───║╚═╗║║║║║║╚╝║║║╚═╝║║╚═╝║║║║║──║║──║╚══╗║╚═╗║║║║
 ╚═══╝─╚═╝───╚══╝╚╝╚╝╚╝──╚╝╚═══╝╚═══╝╚╝╚╝──╚╝──╚═══╝╚══╝╚╝╚╝
 
-A GDI malware that has a lot of GDI payloads, made for educational purposes only.
+A GDI malware(dull&skidded) that has a lot of GDI payloads, made for educational purposes only.
 
 If you use this program illegally and cause serious adverse consequences, the author will not be held responsible.
 
 Credits to ArTicZera for RGBQUAD and Credits to wipet for the HSL function.
 
 So enjoy testing this program！
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                               it's skidded&dull(it's for real because this is my second malware)
